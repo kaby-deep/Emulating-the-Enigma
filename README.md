@@ -5,7 +5,7 @@ communication. It was employed extensively by Nazi Germany during
 World War II, in all branches of the German military. The Enigma 
 machine was considered so secure that it was used to encipher the most 
 top-secret messages, secure as in nearly impossible odds of 1 in 
-158,962,555,217,826,360,000 to intercept and decipher an extremely 
+**158,962,555,217,826,360,000** to intercept and decipher an extremely 
 complicated encrypted code
 The project aims to emulate the working of the infamous device and the 
 internal working of the machine. The project implements the components 
