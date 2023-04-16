@@ -1,7 +1,7 @@
 # Emulating-the-Enigma
                                 ********************ABSTRACT********************
-The Enigma machine is a cipher device developed and used in the early to mid-20th century to protect commercial, diplomatic, and military 
-communication. It was employed extensively by Nazi Germany during 
+**The Enigma** machine is a cipher device developed and used in the early to mid-20th century to protect commercial, diplomatic, and military 
+communication. It was employed extensively by **Nazi Germany** during 
 World War II, in all branches of the German military. The Enigma 
 machine was considered so secure that it was used to encipher the most 
 top-secret messages, secure as in nearly impossible odds of 1 in 
@@ -19,8 +19,8 @@ working of every component and how the message is scrambled in each
 and every step of the encryption process. The project’s sole purpose is to 
 display the exceptional intelligence that went into designing the device 
 which was way ahead of its time and which was once thought impossible 
-to break. The project is also a throwback to the genius Alan Turing who 
-broke The Enigma with his machine ‘The Bombe’ which eventually 
+to break. The project is also a throwback to the genius **Alan Turing** who 
+broke The Enigma with his machine **‘The Bombe’** which eventually 
 helped the Allies win the World War II
 
 
