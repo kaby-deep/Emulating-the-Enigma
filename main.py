@@ -121,4 +121,3 @@ while animating:
                     INPUT = INPUT + key
                     OUTPUT = OUTPUT + key
 
-#link to the enigma:  https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVpCUEZ2RjRwUTVscVdMSzFhWU9ndnI4MW56d3xBQ3Jtc0tuSzgzYWJqNGgtRU90Q0hFdzc2UFJyWlF3M0hIaDdIb2V4QmY0NExEYjc4RGJzZFVla0tIZHNmQ2cwaDRnMjZFdnprclJMZWxFalRpTTB6YUp3MXlwS0hOZVRkb0VjckRCWjR5YUptWFRtRk5nX2pyYw&q=http%3A%2F%2Fmckoss.com%2Fenigma-simulator-js%2F&v=StI2R__7DBA
